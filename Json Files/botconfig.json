@@ -1,0 +1,10 @@
+{
+    "prefix": ".",
+    "owner": "381538605685932032",
+    "usertypes": {
+        "online": "0",
+        "idle": "1",
+        "dnd": "2",
+        "offline": "3"
+    }
+}
